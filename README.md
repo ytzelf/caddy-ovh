@@ -1,2 +1,2 @@
 # caddy-ovh
-Caddy server with OVH DNS plugin baked in
+Caddy server alpine image with OVH DNS plugin baked in
